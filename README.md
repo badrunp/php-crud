@@ -4,5 +4,6 @@ php prosedural crud adalah projek yang dibuat untuk pembelajaran, bagaimana webs
 
 # dibuat dengan
 - PHP native 
+- mysqli (database)
 - Tailwindcss (css)
-- javacript
+- javacript 
